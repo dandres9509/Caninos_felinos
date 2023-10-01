@@ -149,7 +149,7 @@ nav ul li a {
 #promociones {
     margin: 0;
     padding: 0;
-    background: url(../imagenes/fondoPromociones.jpg) center;
+    background: url(../images/fondoPromociones.jpg) center;
     background-repeat: no-repeat;
     height: 400px;
 }
