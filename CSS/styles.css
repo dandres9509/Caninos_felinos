@@ -63,7 +63,7 @@ nav ul li a {
 #cabecera {
     margin: 0;
     padding: 0;
-    background: url(../images/header-home.jpeg) center;
+    background: url(../images/fondoLogo.jpg) center;
     background-repeat: no-repeat;
     height: 400px;
 }
@@ -141,7 +141,7 @@ nav ul li a {
 #productos {
     margin: 0;
     padding: 0;
-    background: url(../images/) center;
+    background: url(../images/fondoProductos.jpg) center;
     background-repeat: no-repeat;
     height: 400px;
 }
